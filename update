@@ -1,0 +1,2 @@
+
+1.添加了 锁屏lock 在update方法中 true锁住 取消 scroll.opt.lock = false;
